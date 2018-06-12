@@ -19,3 +19,4 @@
 
 - [Awesome List: Awesome-React-Native-Education: Optimizing and Performance](https://github.com/hsavit1/Awesome-React-Native-Education#optimizing-and-performance)
 - [Building a Fast and Responsive UI in React Native](https://medium.com/@adamjacobb/react-native-performance-building-a-fast-and-responsive-ui-62b5dcc8b8af)
+- [Video: Architecture of React Native, Multihthreading and performance bottleneck with @JI](https://www.youtube.com/watch?v=0I1RHWo6qkQ)

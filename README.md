@@ -1,15 +1,21 @@
-*this is a placeholder*,
 
 # Tools & instruments
 
-- <a href="https://github.com/GoogleChrome/lighthouse">Google Lighthouse</a> - Auditing, performance metrics, and best practices for Progressive Web Apps. __#CI-compatible__ __#web__
+- [Google Lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing, performance metrics, and best practices for Progressive Web Apps. __#CI__ __#web__
+- [Xcode Instruments](https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/) Instruments is a powerful and flexible performance-analysis and testing tool that’s part of the Xcode tool set. It’s designed to help you profile your OS X and iOS apps __#ios__
 
 # Learn
 
 ## Web
 
-- <a href="https://github.com/davidsonfellipe/awesome-wpo">Awesome Web Performance Optimization</a>
+- [Awesome List: Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+- [Google: Performance Analysis Reference](https://developers.google.com/web/fundamentals/performance/rail)
+
+## iOS
+
+- [How to find and fix slow drawing using Instruments](https://www.hackingwithswift.com/articles/79/how-to-find-and-fix-slow-drawing-using-instruments)
 
 ## React Native
 
-- <a href="https://github.com/hsavit1/Awesome-React-Native-Education#optimizing-and-performance">Awesome-React-Native-Education: Optimizing and Performance</a>
+- [Awesome List: Awesome-React-Native-Education: Optimizing and Performance](https://github.com/hsavit1/Awesome-React-Native-Education#optimizing-and-performance)
+- [Building a Fast and Responsive UI in React Native](https://medium.com/@adamjacobb/react-native-performance-building-a-fast-and-responsive-ui-62b5dcc8b8af)
